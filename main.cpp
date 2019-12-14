@@ -82,4 +82,6 @@ int main()
 
    delete [] matrix;
    delete [] mass;
+
+   return 0;
 }
